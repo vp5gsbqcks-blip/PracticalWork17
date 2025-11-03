@@ -1,0 +1,14 @@
+C:\Users\Honor\source\repos\ПР_17\ПР_17\bin\Debug\net9.0\ПР_17.exe
+C:\Users\Honor\source\repos\ПР_17\ПР_17\bin\Debug\net9.0\ПР_17.deps.json
+C:\Users\Honor\source\repos\ПР_17\ПР_17\bin\Debug\net9.0\ПР_17.runtimeconfig.json
+C:\Users\Honor\source\repos\ПР_17\ПР_17\bin\Debug\net9.0\ПР_17.dll
+C:\Users\Honor\source\repos\ПР_17\ПР_17\bin\Debug\net9.0\ПР_17.pdb
+C:\Users\Honor\source\repos\ПР_17\ПР_17\obj\Debug\net9.0\ПР_17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\source\repos\ПР_17\ПР_17\obj\Debug\net9.0\ПР_17.AssemblyInfoInputs.cache
+C:\Users\Honor\source\repos\ПР_17\ПР_17\obj\Debug\net9.0\ПР_17.AssemblyInfo.cs
+C:\Users\Honor\source\repos\ПР_17\ПР_17\obj\Debug\net9.0\ПР_17.csproj.CoreCompileInputs.cache
+C:\Users\Honor\source\repos\ПР_17\ПР_17\obj\Debug\net9.0\ПР_17.dll
+C:\Users\Honor\source\repos\ПР_17\ПР_17\obj\Debug\net9.0\refint\ПР_17.dll
+C:\Users\Honor\source\repos\ПР_17\ПР_17\obj\Debug\net9.0\ПР_17.pdb
+C:\Users\Honor\source\repos\ПР_17\ПР_17\obj\Debug\net9.0\ПР_17.genruntimeconfig.cache
+C:\Users\Honor\source\repos\ПР_17\ПР_17\obj\Debug\net9.0\ref\ПР_17.dll
